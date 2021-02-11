@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "anatole"
+
+[params]
+title = "Hello world"
+author = "Jose L. Segura Lucas"
+description = "Go, go, go"
+copyright = "2021"
