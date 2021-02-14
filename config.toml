@@ -1,10 +1,18 @@
 baseURL = "https://joselsegura.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Tech notes from a lost developer"
 theme = "anatole"
 
 [params]
-title = "Hello world"
+title = "joselsegura"
 author = "Jose L. Segura Lucas"
-description = "Go, go, go"
+profilePicture = "https://avatars.githubusercontent.com/u/1769148"
+description = "Hey! Oh! Let's Go!"
 copyright = "2021"
+
+[menu]
+  [[menu.main]]
+  name = "About"
+  weight = 10000000
+  identifier = "about"
+  url = "/about/"
