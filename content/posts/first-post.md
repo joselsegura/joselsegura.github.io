@@ -19,7 +19,7 @@ But `whoami`? Well, my name is José-Luis Segura. I am a software engineer
 with more than 10 years experience. I studied Computer Science in Spain at my
 home town (Ciudad Real).
 
-I have worked for a few of companies, all of them involved in software engineering,
+I have worked for a few of companies, always on software engineering
 and a bit of system administration. Currently, I am working for Red Hat,
 programming a lot in [Python](https://www.python.org) and
 [Golang](https://golang.org/), running systems and interacting with
